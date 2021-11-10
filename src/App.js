@@ -9,8 +9,9 @@ function App() {
         <p>
           i like to jabol everyday -sun tzu.
         </p>
-        <br>
+        <p>
         <button type="button">Click Me!</button>
+         </p>
         <a
           className="App-link"
           href="https://reactjs.org"
