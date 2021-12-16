@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Button from './Button.js'
 
 function App() {
   return (
@@ -9,9 +10,7 @@ function App() {
         <p>
           i like to jabol everyday -sun tzu.
         </p>
-        <p>
-        <button type="button">Click Me!</button>
-         </p>
+        <button></button> 
         <a
           className="App-link"
           href="https://reactjs.org"
